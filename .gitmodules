@@ -1,0 +1,3 @@
+[submodule "nodejs-kafka-producer"]
+	path = nodejs-kafka-producer
+	url = https://github.com/FUNJABIVRUSH/nodejs-kafka-producer.git
